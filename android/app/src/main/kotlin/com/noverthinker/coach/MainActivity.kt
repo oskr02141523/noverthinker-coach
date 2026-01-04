@@ -1,4 +1,4 @@
-package com.noverthinker.noverthinker_coach
+package com.noverthinker.coach
 
 import io.flutter.embedding.android.FlutterActivity
 
